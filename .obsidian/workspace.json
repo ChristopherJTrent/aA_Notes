@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "26a419952ba8d5e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c322009306ef4abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb7817a5b0b4ecf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Rails/Ruby on Rails.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08783f545e24cda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1325f0761535b238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b8701f74bfe4b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3cd156d47a77806",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e9b0f36a66c363b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b9067d8d38095d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fda72752ba2b266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb889a9f19bbf14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ruby/Rails/Ruby on Rails.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21c5505fcc14133f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ruby/Rails/Ruby on Rails.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ede83cad1a18080",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c995cb62c0461ced",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ruby/Rails/Ruby on Rails.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08b8701f74bfe4b5",
+  "lastOpenFiles": [
+    "Javascript",
+    "HTML/CSS",
+    "HTML",
+    "SQL",
+    "Ruby/Rspec.md",
+    "Ruby/Rails/Ruby on Rails.md",
+    "Ruby/Bye Bug.md",
+    "Ruby/OOP.md",
+    "Ruby/Ruby.md",
+    "Ruby/Rails/Active Record",
+    "Ruby/Rails",
+    "Ruby",
+    "Welcome.md"
+  ]
+}
