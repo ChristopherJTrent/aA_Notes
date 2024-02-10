@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"63b36587edb0ebe2","type":"text","text":"A migration is a ruby code file that describes the way in which the database will change when it is applied.\n","x":-200,"y":-300,"width":380,"height":100},
+		{"id":"6963feaab93c1173","x":-400,"y":-100,"width":400,"height":400,"type":"file","file":"Ruby/Rails/Active Record/Changes.md"}
+	],
+	"edges":[
+		{"id":"9ca68d4929860fcc","fromNode":"63b36587edb0ebe2","fromSide":"bottom","toNode":"6963feaab93c1173","toSide":"top"}
+	]
+}

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c322009306ef4abb",
+        "id": "f0872986fe20234a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7817a5b0b4ecf8",
+            "id": "496ba387c10e02f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruby/Rails/Ruby on Rails.md",
+                "file": "_joins/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea5730afcbbd8bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Rails/Active Record/Changes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Rails/Ruby on Rails.md",
+                "file": "Ruby/Rails/Active Record/Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruby/Rails/Ruby on Rails.md",
+                "file": "Ruby/Rails/Active Record/Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruby/Rails/Ruby on Rails.md"
+                "file": "Ruby/Rails/Active Record/Changes.md"
               }
             }
+          },
+          {
+            "id": "cafd40a1a40c6685",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +167,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08b8701f74bfe4b5",
+  "active": "ea5730afcbbd8bc6",
   "lastOpenFiles": [
+    "_joins/Ruby.md",
+    "_joins/ActiveRecord.md",
+    "Ruby/Rails/Active Record/Changes.md",
+    "Ruby/Rspec.md",
+    "_joins/CSS.md",
+    "_joins/Languages.md",
+    "_joins",
+    "Untitled.md",
+    "_joins/HTML.md",
+    "_joins/Javascript.md",
+    "Ruby/Ruby.md",
+    "ActiveRecord.md",
+    "Ruby/Rails/Active Record/Migrations.canvas",
+    "create_table.md",
+    "Ruby/Rails/Ruby on Rails.md",
     "Javascript",
     "HTML/CSS",
     "HTML",
     "SQL",
-    "Ruby/Rspec.md",
-    "Ruby/Rails/Ruby on Rails.md",
     "Ruby/Bye Bug.md",
     "Ruby/OOP.md",
-    "Ruby/Ruby.md",
     "Ruby/Rails/Active Record",
     "Ruby/Rails",
     "Ruby",
